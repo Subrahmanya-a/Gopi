@@ -1,0 +1,11 @@
+{
+    "setAutopilotPlan": {
+        "__siteID__": "fa6be406-c57f-43a0-a61f-5a0c4b26a1b6",
+        "__plan__": "GOLD"
+    },
+    "initializeAutopilot": {
+        "__siteID__": "fa6be406-c57f-43a0-a61f-5a0c4b26a1b6",
+        "__workspaceID__": "c649782d-be5d-4976-ab1c-5cee7eabb48d"
+
+    }
+}

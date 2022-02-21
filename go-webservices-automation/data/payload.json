@@ -1,0 +1,12 @@
+{
+    "graphql": {
+        "setAutopilotPlan": {
+            "query": "mutation {setAutopilotPlan(args: {id: \\\"__siteID__\\\", plan: __plan__}) {id plan }}",
+            "isDynamicAttr": true
+        },
+        "initializeAutopilot": {
+            "query": "mutation {initializeAutopilot(args: {id: \\\"__siteID__\\\", workspaceId: \\\"__workspaceID__\\\", settings: {}}) {id plan}}",
+            "isDynamicAttr": true
+        }
+    }
+}

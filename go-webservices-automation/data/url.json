@@ -1,0 +1,22 @@
+{
+    "graphql": {
+        "url": "https://admin.dashboard.pantheon.io/graphql-playground",
+        "method": "POST"
+    },
+    "valhalla": {
+        "MANIFEST": {
+            "url": "https://35.235.73.188/sites/80ccc9fc-cd6a-447f-b69f-6a24bccd6ccf/environments/dev/files",
+            "method": "MANIFEST"
+        },
+        "GET": {
+            "url": "https://35.235.73.188/sites/80ccc9fc-cd6a-447f-b69f-6a24bccd6ccf/environments/dev/files",
+            "method": "GET"
+        }
+    },
+    "canary": {
+        "MANIFEST": {
+            "url": "https://34.70.96.213/sites/915ff3af-fcf3-4d30-886e-6736336a6bbf/environments/dev/files",
+            "method": "GET"
+        }
+    }
+}
